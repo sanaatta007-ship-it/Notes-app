@@ -64,7 +64,7 @@ notes-app/
 
 1. Clone the repo
    bash
-   git clone https://github.com/your-username/notes-app.git
+   git clone https://github.com/sanaatta007-ship-it/Notes-app.git
    
 2. Open index.html in your browser — no build step, no dependencies
 
@@ -77,4 +77,7 @@ notes-app/
 ---
 Author:
 Sana Atta
+
 Built as part of my self-paced JavaScript learning journey.
+
+github profile link:https://github.com/sanaatta007-ship-it

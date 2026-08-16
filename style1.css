@@ -1,0 +1,90 @@
+body {
+  margin: 0;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #e5e7eb;
+}
+
+.app {
+  background-color: white;
+  padding: 30px;
+  border-radius: 10px;
+  width: 500px;
+  max-height: 90vh;
+  overflow-y: auto;
+}
+
+h1 {
+  color: #333;
+}
+
+#notecount {
+  color: gray;
+  font-size: 14px;
+}
+
+#noteinput, #searchinput {
+  padding: 10px;
+  width: 250px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 14px;
+}
+
+#addbtn {
+  padding: 10px 16px;
+  background-color: #4f46e5;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+#addbtn:hover {
+  background-color: #3730a3;
+}
+
+.note-card {
+  background-color: white;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 15px;
+  margin-top: 15px;
+}
+
+.note-text {
+  font-size: 15px;
+  margin-bottom: 5px;
+}
+
+.note-timestamp {
+  color: gray;
+  font-size: 12px;
+}
+
+.edit-btn, .delete-btn {
+  padding: 6px 12px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 10px;
+  margin-right: 5px;
+}
+
+.edit-btn {
+  background-color: #e0e7ff;
+  color: #3730a3;
+}
+
+.delete-btn {
+  background-color: #fee2e2;
+  color: #b91c1c;
+}
+
+.empty-state {
+  color: gray;
+  text-align: center;
+  margin-top: 30px;
+}

@@ -2,7 +2,7 @@
 
 A fast, persistent note-taking app built with vanilla JavaScript — no frameworks, no libraries, just core fundamentals done right.
 
-🔗 *Live Demo:* [your-deployment-link-here]
+🔗 *Live Demo:* https://sanaatta007-ship-it.github.io/Notes-app/
 
 <img src="./notes-app-demo.png" alt="Notes App Screenshot" width="300">
 <img src="./notes-app-demo2.png" alt="Notes App Screenshot 2" width="300">

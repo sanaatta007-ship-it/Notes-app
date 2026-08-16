@@ -4,8 +4,8 @@ A fast, persistent note-taking app built with vanilla JavaScript — no framewor
 
 🔗 *Live Demo:* [your-deployment-link-here]
 
-<img src="./screenshots/notes-app-demo.png" alt="Notes App Screenshot" width="300">
-
+<img src="./notes-app-demo.png" alt="Notes App Screenshot" width="300">
+<img src="./notes-app-demo2.png" alt="Notes App Screenshot 2" width="300">
 ## ✨ Features
 
 - *Full CRUD* — Create, Read, Update, and Delete notes
@@ -37,13 +37,13 @@ This avoids manual DOM patching and eliminates bugs where the UI and data get ou
 
 ## 📂 Project Structure
 
-
+```
 notes-app/
 ├── index.html
 ├── style.css
 ├── script.js
 └── README.md
-
+```
 
 ## 🧠 Key Concepts Practiced
 
@@ -75,5 +75,6 @@ notes-app/
 - Refactor into a class-based (OOP) architecture
 
 ---
-
+Author:
+Sana Atta
 Built as part of my self-paced JavaScript learning journey.
